@@ -62,6 +62,13 @@ export const SECTIONS: DocSection[] = [
         path: "skills/RESOLVER.md",
       },
       {
+        title: "docs/prompts-skills-cheatsheet.md",
+        description:
+          "Contributor cheatsheet for skill routing and TypeScript prompt surfaces.",
+        path: "docs/prompts-skills-cheatsheet.md",
+        includeInFull: false,
+      },
+      {
         title: "README.md",
         description: "Project overview, benchmarks, 30-minute setup.",
         path: "README.md",

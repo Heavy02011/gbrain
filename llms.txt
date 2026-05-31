@@ -10,6 +10,7 @@ Repo: https://github.com/garrytan/gbrain
 - [CLAUDE.md](https://raw.githubusercontent.com/garrytan/gbrain/master/CLAUDE.md): Architecture reference. Key files, trust boundaries, engine factory, test layout.
 - [INSTALL_FOR_AGENTS.md](https://raw.githubusercontent.com/garrytan/gbrain/master/INSTALL_FOR_AGENTS.md): 9-step agent installation.
 - [skills/RESOLVER.md](https://raw.githubusercontent.com/garrytan/gbrain/master/skills/RESOLVER.md): Skill dispatcher. Read first for any task.
+- [docs/prompts-skills-cheatsheet.md](https://raw.githubusercontent.com/garrytan/gbrain/master/docs/prompts-skills-cheatsheet.md): Contributor cheatsheet for skill routing and TypeScript prompt surfaces.
 - [README.md](https://raw.githubusercontent.com/garrytan/gbrain/master/README.md): Project overview, benchmarks, 30-minute setup.
 
 ## Configuration
